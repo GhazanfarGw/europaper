@@ -9,7 +9,7 @@ const SecurityStatsSection = () => {
             Investment Opportunity <br /> in Euro Paper​
         </h2>
         {/* Stats Section */}
-        <div className="grid grid-cols-2 md:grid-cols-4 md:gap-8 gap-5 py-8">
+        <div className="grid md:grid-cols-2 lg:grid-cols-4 lg:gap-8 gap-5 py-8">
             <div>
                 <p className="bg-red-700 text-3xl font-semibold">
                     1
