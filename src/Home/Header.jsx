@@ -64,38 +64,6 @@ function Logo({ isScrolled }) {
                             Home
                           </a>
                           <a
-                            href="/portfolio"
-                            className="
-                            
-                            items-center text-base md:text-sm md:hover:border-b border-[#000000] relative h-8 duration-200 lg:px-8 md:px-4 px-4 flex justify-center flex-row text-[#777777] hover:text-black font-semibold tracking-wide"
-                          >
-                            Portfolio
-                          </a>
-                          <a
-                            href="/philosophy"
-                            className="
-                            
-                            items-center text-base md:text-sm md:hover:border-b border-[#000000] relative h-8 duration-200 lg:px-8 md:px-4 px-4 flex justify-center flex-row text-[#777777] hover:text-black font-semibold tracking-wide"
-                          >
-                            Philosophy
-                          </a>
-                          <a
-                            href="/"
-                            className="
-                            
-                            items-center text-base md:text-sm md:hover:border-b border-[#000000] relative h-8 duration-200 lg:px-8 md:px-4 px-4 flex justify-center flex-row text-[#777777] hover:text-black font-semibold tracking-wide"
-                          >
-                            Team
-                          </a>
-                          <a
-                            href="/"
-                            className="
-                            
-                            items-center text-base md:text-sm md:hover:border-b border-[#000000] relative h-8 duration-200 lg:px-8 md:px-4 px-4 flex justify-center flex-row text-[#777777] hover:text-black font-semibold tracking-wide"
-                          >
-                            News & Insight
-                          </a>
-                          <a
                             href="/contact-us"
                             className="
                             items-center text-base md:text-sm hover:bg-[#403f68] rounded-full border-[#000000] border relative h-10 duration-200 lg:px-8 md:px-4 px-4 flex justify-center flex-row text-[#777777] hover:text-black font-semibold tracking-wide"
