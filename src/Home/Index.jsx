@@ -8,7 +8,6 @@ import Investor from "./Investor"
 import Euro from "./Europaper"
 import Investment from "./Investment"
 import Opportunities from "./Opportunities"
-import History from './History';
 import Discover from './Discover';
 
 function Index() {
@@ -17,7 +16,6 @@ function Index() {
     <Header/>
     <Dashboard/>
     <About/>
-    <History/>
     <Business/>
     <Investor/>
     <Euro/>
