@@ -3,7 +3,7 @@ import React from "react";
 const CyberSecuritySection = () => {
   return (
     <section id="about" className="text-white py-12 md:px-10 px-5 md:pt-56 pt-32 bg-white">
-      <div className="max-w-7xl mx-auto grid grid-cols-2 gap-10 justify-center border-b border-[#59A93D] pb-20">
+      <div className="max-w-7xl mx-auto md:grid md:grid-cols-2 md:gap-10 justify-center border-b border-[#59A93D] pb-20">
         {/* Image Section */}
         <div className="w-full">
           <img
