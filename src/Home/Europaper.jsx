@@ -44,7 +44,7 @@ const CyberSecuritySection = () => {
           </div>
         </div>
         {/* Image Section */}
-        <div className="w-full">
+        <div className="w-full hidden md:block lg:block">
           <img
             src="./Euroai.png" // Replace with your image URL
             alt="Cybersecurity Analyst"
