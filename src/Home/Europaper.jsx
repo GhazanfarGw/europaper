@@ -2,7 +2,7 @@ import React from "react";
 
 const CyberSecuritySection = () => {
   return (
-    <section id="about" className="text-white py-12 md:px-10 px-5 pt-32 bg-white">
+    <section id="about" className="text-white py-12 md:px-10 px-5 md:pt-32 pt:16 bg-white">
       <div className="max-w-7xl mx-auto md:grid md:grid-cols-2 md:gap-10 justify-center">
         {/* Text Section */}
         <div className="w-full block md:hidden lg:hidden">
