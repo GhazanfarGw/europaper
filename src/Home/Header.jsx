@@ -46,7 +46,7 @@ function Logo({ isScrolled }) {
                     <div className="z-20 flex-shrink-0 md:py-2 py-3 items-center duration-500">
                       <a href="/">
                         <img width={150} className='hidden md:block lg:block items-center duration-500' src='./Logo.webp' alt='favicon.png'/>
-                        <img width={140} className='block md:hidden lg:hidden items-center duration-500' src='./Logo.webp' alt='favicon.png'/>
+                        <img width={150} className='block md:hidden lg:hidden items-center duration-500' src='./Logo.webp' alt='favicon.png'/>
                       </a>
                     </div>
                     <div className="z-20 text-3xl md:hidden pt-3 px-3" onClick={() => setOpen(!open)}>
@@ -123,7 +123,7 @@ function Logo({ isScrolled }) {
             <div className="z-30 flex-shrink-0 items-center duration-500 pb-2 md:py-0 py-3">
               <a href="/">
                 <img width={180} className='hidden md:block lg:block items-center duration-500' src='./Logo.webp' alt='favicon.png'/>
-                <img width={160} className='block md:hidden lg:hidden items-center duration-500' src='./Logo.webp' alt='favicon.png'/>
+                <img width={170} className='block md:hidden lg:hidden items-center duration-500' src='./Logo.webp' alt='favicon.png'/>
               </a>
             </div>
             <div className="z-20 text-3xl md:hidden pt-3 px-3 text-black" onClick={() => setOpen(!open)}>
