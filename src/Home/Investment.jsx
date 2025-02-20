@@ -11,7 +11,7 @@ const SecurityStatsSection = () => {
         {/* Stats Section */}
         <div className="grid md:grid-cols-2 lg:grid-cols-4 lg:gap-8 gap-5 py-8">
             <div>
-                <p className="bg-[#59A93D] text-3xl font-semibold">
+                <p className="border-b pb-3 border-opacity-25 boder-[#59A93D] text-3xl font-semibold">
                     1
                 </p>
                 <h1 className="text-3xl mt-10 font-semibold">
@@ -22,7 +22,7 @@ const SecurityStatsSection = () => {
                 </p>
             </div>
             <div>
-                <p className="bg-[#59A93D] text-3xl font-semibold">
+                <p className="border-b pb-3 border-opacity-25 boder-[#59A93D] text-3xl font-semibold">
                     2
                 </p>
                 <h1 className="text-3xl mt-10 font-semibold">
@@ -33,7 +33,7 @@ const SecurityStatsSection = () => {
                 </p>
             </div>
             <div>
-                <p className="bg-[#59A93D] text-3xl font-semibold">
+                <p className="border-b pb-3 border-opacity-25 boder-[#59A93D] text-3xl font-semibold">
                     3
                 </p>
                 <h1 className="text-3xl mt-10 font-semibold">
@@ -44,7 +44,7 @@ const SecurityStatsSection = () => {
                 </p>
             </div>
             <div>
-                <p className="bg-[#59A93D] text-3xl font-semibold">
+                <p className="border-b pb-3 border-opacity-25 boder-[#59A93D] text-3xl font-semibold">
                     4
                 </p>
                 <h1 className="text-3xl mt-10 font-semibold">
