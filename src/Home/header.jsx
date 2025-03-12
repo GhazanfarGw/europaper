@@ -117,11 +117,6 @@ function Logo({ isScrolled }) {
                   </Link>
                 </li>
                 <li>
-                  <Link to="/about-us" className="tracking-wider hover:bg-[#f1f1f1] px-8 py-3 flex flex-row items-center duration-200 border-b hover:text-[#A39896] text-[#403f68] border-[#403f68] border-opacity-10 text-sm font-semibold">
-                    About Us
-                  </Link>
-                </li>
-                <li>
                   <Link to="/our-brands" className="tracking-wider hover:bg-[#f1f1f1] px-8 py-3 flex flex-row items-center duration-200 border-b hover:text-[#A39896] text-[#403f68] border-[#403f68] border-opacity-10 text-sm font-semibold">
                     Our Brands
                   </Link>
@@ -177,14 +172,6 @@ function Logo({ isScrolled }) {
                     Home
                   </a>
                   <a
-                    href="/about-us"
-                    className="
-                    
-                    items-center text-base md:text-sm md:hover:border-b border-[#A39896] relative h-8 duration-200 lg:px-8 md:px-4 px-4 flex justify-center flex-row text-[#fff] font-semibold tracking-wide"
-                  >
-                    About Us
-                  </a>
-                  <a
                     href="/our-brands"
                     className="
                     
@@ -236,11 +223,6 @@ function Logo({ isScrolled }) {
                 <li>
                   <Link to="/" className="tracking-wider hover:bg-[#f1f1f1] px-8 py-3 flex flex-row items-center duration-200 border-b hover:text-[#A39896] text-[#403f68] border-[#403f68] border-opacity-10 text-sm font-semibold">
                     Home
-                  </Link>
-                </li>
-                <li>
-                  <Link to="/about-us" className="tracking-wider hover:bg-[#f1f1f1] px-8 py-3 flex flex-row items-center duration-200 border-b hover:text-[#A39896] text-[#403f68] border-[#403f68] border-opacity-10 text-sm font-semibold">
-                    About Us
                   </Link>
                 </li>
                 <li>
