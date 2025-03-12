@@ -19,7 +19,7 @@ export default function Updates() {
                     <h1 className='md:text-4xl text-2xl mx-auto md:pt-20 pt-5'>
                         Get our latest insights and brcompany <br />announcements. <br/>
                         <span className='text-sm text-[#4b4b4b]'>
-                            Only subscribe if you part of friends and family network.
+                            For event updates, news, and exclusive insights, subscribe to our newsletter.
                         </span>
                     </h1>
                     <Email/>
