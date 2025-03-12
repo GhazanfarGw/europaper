@@ -63,14 +63,6 @@ function Logo({ isScrolled }) {
                             Home
                           </a>
                           <a
-                            href="/about-us"
-                            className="
-                            
-                            items-center text-base md:text-sm md:hover:border-b border-[#000000] relative h-8 duration-200 lg:px-8 md:px-4 px-4 flex justify-center flex-row text-[#777777] hover:text-black font-semibold tracking-wide"
-                          >
-                            About Us
-                          </a>
-                          <a
                             href="/our-brands"
                             className="
                             
@@ -93,6 +85,14 @@ function Logo({ isScrolled }) {
                             items-center text-base md:text-sm md:hover:border-b border-[#000000] relative h-8 duration-200 lg:px-8 md:px-4 px-4 flex justify-center flex-row text-[#777777] hover:text-black font-semibold tracking-wide"
                           >
                             Environmental Care
+                          </a>
+                          <a
+                            href="/about-us"
+                            className="
+                            
+                            items-center text-base md:text-sm md:hover:border-b border-[#000000] relative h-8 duration-200 lg:px-8 md:px-4 px-4 flex justify-center flex-row text-[#777777] hover:text-black font-semibold tracking-wide"
+                          >
+                            About Us
                           </a>
                           <a
                             href="/contact-us"
@@ -134,6 +134,11 @@ function Logo({ isScrolled }) {
                 <li>
                   <Link to="/environmental-care" className="tracking-wider hover:bg-[#f1f1f1] px-8 py-3 flex flex-row items-center duration-200 border-b hover:text-[#A39896] text-[#403f68] border-[#403f68] border-opacity-10 text-sm font-semibold">
                     Environmental Care
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/about-us" className="tracking-wider hover:bg-[#f1f1f1] px-8 py-3 flex flex-row items-center duration-200 border-b hover:text-[#A39896] text-[#403f68] border-[#403f68] border-opacity-10 text-sm font-semibold">
+                    About Us
                   </Link>
                 </li>
                   <p className='text-sm px-8 text-[#403f68] pt-8'>
@@ -204,6 +209,14 @@ function Logo({ isScrolled }) {
                     Environmental Care
                   </a>
                   <a
+                    href="/about-us"
+                    className="
+                    
+                    items-center text-base md:text-sm md:hover:border-b border-[#A39896] relative h-8 duration-200 lg:px-8 md:px-4 px-4 flex justify-center flex-row text-[#fff] font-semibold tracking-wide"
+                  >
+                    About Us
+                  </a>
+                  <a
                     href="/contact-us"
                     className="
                     items-center text-base md:text-sm bg-black bg-opacity-10 hover:bg-opacity-5 rounded-full border-[#A39896] relative h-10 duration-200 lg:px-8 md:px-4 px-4 flex justify-center flex-row text-[#fff] hover:text-black font-semibold tracking-wide"
@@ -243,6 +256,11 @@ function Logo({ isScrolled }) {
                 <li>
                   <Link to="/environmental-care" className="tracking-wider hover:bg-[#f1f1f1] px-8 py-3 flex flex-row items-center duration-200 border-b hover:text-[#A39896] text-[#403f68] border-[#403f68] border-opacity-10 text-sm font-semibold">
                     Environmental Care
+                  </Link>
+                </li>
+                <li>
+                  <Link to="/about-us" className="tracking-wider hover:bg-[#f1f1f1] px-8 py-3 flex flex-row items-center duration-200 border-b hover:text-[#A39896] text-[#403f68] border-[#403f68] border-opacity-10 text-sm font-semibold">
+                    About Us
                   </Link>
                 </li>
                   <p className='text-sm px-8 text-[#403f68] pt-8'>
