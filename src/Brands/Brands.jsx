@@ -28,7 +28,7 @@ export default function BrandSlider() {
   useEffect(() => {
     const interval = setInterval(() => {
       handleNext();
-    }, 5000);
+    }, 15000);
     return () => clearInterval(interval);
   }, [selectedIndex]);
 
