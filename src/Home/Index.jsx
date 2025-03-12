@@ -13,10 +13,6 @@ function Index() {
     <Header/>
     <Dashboard/>
     <About/>
-    {/* <Sustainable/> */}
-    {/* <Investor/> */}
-    {/* <Euro/> */}
-    {/* <Slider/> */}
     <Difference/>
     <Subscribe/>
     <Footer/>
