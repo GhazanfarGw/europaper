@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+limport React, { useEffect, useState } from 'react';
 import { Link } from "react-router-dom";
 
 
@@ -157,7 +157,7 @@ function Logo({ isScrolled }) {
                 <img width={220} className='block md:hidden lg:hidden items-center duration-500' src='./logo.png' alt='favicon.png'/>
               </a>
             </div>
-            <div className="z-20 text-3xl md:hidden pt-3 px-3 text-white" onClick={() => setOpen(!open)}>
+            <div className="z-20 text-3xl md:hidden pt-3 px-3 text-black" onClick={() => setOpen(!open)}>
               <ion-icon className="text-black" name={`${open ? "close" : "menu"}`}></ion-icon>
             </div>
             <div className="hidden lg:block w-full duration-500 scroll-smooth z-40">
