@@ -1,0 +1,19 @@
+import React from 'react'
+import Header from "../Home/header";
+import Footer from "../Home/Footer";
+import Dashboard from "./Dashboard";
+import About from "./Aboutus";
+import Sub from "../Home/Subscribe";
+
+
+export default function Index() {
+  return (
+    <>
+    <Header/>
+    <Dashboard/>
+    <About/>
+    <Sub/>
+    <Footer/>
+    </>
+  )
+}
