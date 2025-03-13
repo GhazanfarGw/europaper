@@ -22,7 +22,7 @@ export default function Dashboard() {
                             Euro Papers is excited to announce the launch of our website! <br />Explore our products and connect with us online.
                         </p>
                         <a 
-                            href="#about" className="fourth md:mt-10 mt-5 hover:px-4 items-center text-[#fff] md:text-sm text-xs font-light scroll-smooth duration-500 bg-[#201F52] relative h-10 tracking-wide w-40 uppercase md:px-4 justify-center flex rounded-sm">
+                            href="./about-us" className="fourth md:mt-10 mt-5 hover:px-4 items-center text-[#fff] md:text-sm text-xs font-light scroll-smooth duration-500 bg-[#201F52] relative h-10 tracking-wide w-40 uppercase md:px-4 justify-center flex rounded-sm">
                             Learn More
                         </a>
                     </div>
