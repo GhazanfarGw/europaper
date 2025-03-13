@@ -20,7 +20,7 @@ export default function Updates() {
                 </div>
                 <div>
                     <h1 className='md:text-4xl text-2xl mx-auto md:pt-20 pt-5'>
-                        Get our latest insights and company <br ClassName="hidden md:block lg:block"/>announcements. <br/>
+                        Get our latest insights and company <br className="hidden md:block lg:block"/>announcements. <br/>
                         <span className='text-sm text-[#4b4b4b]'>
                             For event updates, news, and exclusive insights, subscribe to our newsletter.
                         </span>
