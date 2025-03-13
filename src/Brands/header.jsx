@@ -137,7 +137,7 @@ function Logo({ isScrolled }) {
                   </Link>
                 </li>
                   <p className='text-sm px-8 text-[#403f68] pt-8'>
-                    Start your journey today with us, and discover how we are driving positive change through sustainable investments,
+                    Founded in 2019 by Abid Khan, Euro Paper has built a strong reputation for the manufacture and distribution of high-quality of tissue products across multiple sectors.​ Currently producing 10,000 tonnes annually, EP plans to scale to 42,000 tonnes, leveraging AI-driven manufacturing, strategic partnerships, and market demand.
                   </p>
                 <li> 
                   <Link to="/contact-us" className="hover:bg-[#A39896] border border-[#A39896] items-center relative h-10 mt-8 tracking-wider duration-200 mx-10 justify-center flex rounded-sm">
@@ -246,7 +246,7 @@ function Logo({ isScrolled }) {
                   </Link>
                 </li>
                   <p className='text-sm px-8 text-[#403f68] pt-8'>
-                    Start your journey today with us, and discover how we are driving positive change through sustainable investments,
+                    Founded in 2019 by Abid Khan, Euro Paper has built a strong reputation for the manufacture and distribution of high-quality of tissue products across multiple sectors.​ Currently producing 10,000 tonnes annually, EP plans to scale to 42,000 tonnes, leveraging AI-driven manufacturing, strategic partnerships, and market demand.
                   </p>
                 <li> 
                   <Link to="/contact-us" className="hover:bg-[#A39896] border border-[#A39896] items-center relative h-10 mt-8 tracking-wider duration-200 mx-10 justify-center flex rounded-sm">
