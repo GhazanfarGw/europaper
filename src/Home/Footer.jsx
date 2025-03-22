@@ -13,8 +13,8 @@ const Footer = () => {
                 <div className='md:grid md:grid-cols-4 md:gap-8 max-w-screen-2xl mx-auto justify-center py-5 text-white px-7'>
                     <div className=''>
                         <p className='text-sm text-[#C3CDD3] md:pt-4 pt-3'>
-                            Founded in 2019 by Abid Khan, Euro Paper has built a strong reputation for the manufacture and distribution of high-quality of tissue products across multiple sectors.​
-                            Currently producing 10,000 tonnes annually, EP plans to scale to 42,000 tonnes, leveraging AI-driven manufacturing, strategic partnerships, and market demand.
+                            Founded in 2019, Euro Paper has established a strong reputation for manufacturing and distributing high-quality tissue products across multiple sectors.
+                            We are excited to announce plans to expand our operations by adding more converting lines and developing a new, purpose-built manufacturing plant. This investment will help us uphold our core values of quality and service.
                         </p>
                     </div>
                     <ul className='md:pt-0 pt-10'>
@@ -22,8 +22,8 @@ const Footer = () => {
                             Contact Us
                         </il>
                         <li className='text-sm text-[#C3CDD3] md:pt-4 pt-2'>
-                            a.khan@europapers.co.uk <br />
-                            Head Office Number: +44 0845 123 4567
+                            admin@europapers.co.uk <br />
+                            Head Office Number: +01254 781202
                         </li>
                     </ul>
                     <div className='md:pt-0 pt-10'>
@@ -31,7 +31,7 @@ const Footer = () => {
                             Address
                         </h1>
                         <p className='text-sm text-[#C3CDD3] md:pt-4 pt-2'>
-                            Unit BZ1, Glenfield Business Park, Blackburn, BB1 5RZ
+                        D3 Glenfield Park Philips Road Blackburn Lancashire BB1 5PF
                         </p>
                     </div>
                     <div className='md:pt-0 pt-10'>
