@@ -22,7 +22,7 @@ const Footer = () => {
                         </il>
                         <li className='text-sm text-[#C3CDD3] md:pt-4 pt-2'>
                             admin@europapers.co.uk <br />
-                            Head Office Number: +01254 781202
+                            Head Office Tel: 01254 781202
                         </li>
                     </ul>
                     <div className='md:pt-0 pt-10'>
