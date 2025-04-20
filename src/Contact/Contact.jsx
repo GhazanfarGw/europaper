@@ -44,7 +44,7 @@ function Contact () {
     <>
         <div className='bg-white'>
             <div className='bg-local md:h-72 h-48'>
-                <img className='w-full object-cover md:h-[32rem] h-[24rem]' src='./support1.jpg' alt='image'/>
+                <img className='w-full object-cover md:h-[32rem] h-[24rem]' src='./0_TCBR040325DocumentBRI_02JPG.webp' alt='image'/>
             </div>
             <div className='md:px-10 mx-auto justify-center overflow-hidden px-5 max-w-screen-xl'>
                 <div className='text-white'>
