@@ -6,7 +6,7 @@ export default function Dashboard() {
     <>
         <div className='duration-500 justify-center mx-auto'>
             <video 
-                class="w-full object-cover justify-center mx-auto min-h-[30rem] md:min-h-screen opacity-70" 
+                class="w-full object-cover justify-center mx-auto min-h-[30rem] md:min-h-screen opacity-80" 
                     loop autoPlay muted playsinline>
                 <source src="europaper.mp4" type="video/mp4"/>
             </video>
