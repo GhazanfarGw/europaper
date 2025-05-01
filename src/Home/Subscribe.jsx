@@ -17,7 +17,7 @@ export default function Updates() {
             <div data-aos="zoom-in-up" data-aos-delay="300" data-aos-duration="400" className='text-[#1A2B6B] mx-auto justify-center'>
                 <div>
                     <h1 className='md:text-4xl text-2xl mx-auto md:pt-20 pt-5'>
-                        Get our latest insights and brcompany <br />announcements. <br/>
+                        Get our latest insights and company <br />announcements. <br/>
                         <span className='text-sm text-[#4b4b4b]'>
                             For event updates, news, and exclusive insights, subscribe to our newsletter.
                         </span>
