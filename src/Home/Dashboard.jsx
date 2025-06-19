@@ -8,7 +8,7 @@ export default function Dashboard() {
             <video 
                 class="w-full object-cover justify-center mx-auto min-h-[30rem] md:min-h-screen opacity-70" 
                     loop autoPlay muted playsinline>
-                <source src="europaper.mp4" type="video/mp4"/>
+                <source src="Europaper.mp4" type="video/mp4"/>
             </video>
             <div className='mx-auto justify-center'>
                 <div className='text-white md:top-1/4 top-10 absolute md:left-0 md:right-0 justify-center pt-10 md:pt-0 max-w-screen-xl mx-auto md:px-10 px-5'>
