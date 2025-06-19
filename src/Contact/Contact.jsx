@@ -147,7 +147,7 @@ function Contact () {
                             Head Office
                         </h1>
                         <p className='pt-5'>
-                            D3 Glenfield Park Philips Road Blackburn Lancashire BB1 5PF
+                            India Mill, Harwood Street, Blackburn. Lancashire. BB1 3BD
                         </p>
                     </div>
                     <div className='bg-[#F5F5F5] text-black md:py-20 py-10 md:px-10 px-5 md:mx-0 mx-5 mt-10'>
