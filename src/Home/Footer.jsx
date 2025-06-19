@@ -30,7 +30,7 @@ const Footer = () => {
                             Address
                         </h1>
                         <p className='text-sm text-[#C3CDD3] md:pt-4 pt-2'>
-                        D3 Glenfield Park Philips Road Blackburn Lancashire BB1 5PF
+                            India Mill, Harwood Street, Blackburn. Lancashire. BB1 3BD
                         </p>
                     </div>
                     <div className='md:pt-0 pt-10'>
